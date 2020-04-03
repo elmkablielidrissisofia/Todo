@@ -1,0 +1,26 @@
+.box-bleu{
+    text-align: right;
+    background-color: #4696e5;
+    color: white;
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.style-input{
+    width: 70%;
+    height: 50px;
+}
+.button{
+    width: 70px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #4696e5;
+    color: white;
+    border: solid 1px black;
+}
+#myDIV h1{
+    padding-top: 100px;
+    text-align: center;
+    color: grey;
+}
